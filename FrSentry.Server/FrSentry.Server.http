@@ -1,0 +1,6 @@
+@FrSentry.Server_HostAddress = http://localhost:5126
+
+GET {{FrSentry.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
